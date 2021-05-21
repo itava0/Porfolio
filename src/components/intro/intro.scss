@@ -1,0 +1,18 @@
+.intro {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "The Bold Font";
+  font-size: 4.5rem;
+  word-spacing: 1rem;
+  color: $color-tertiary;
+
+  @include responsive(phone-port) {
+    font-size: 3rem;
+  }
+}
+
+.intro p:first-child {
+  text-align: center;
+}

@@ -1,0 +1,82 @@
+.about-flex {
+  display: flex;
+
+  @include responsive(tab-port) {
+    display: block;
+  }
+}
+
+.about-group {
+  min-width: 50%;
+  color: $color-dark;
+
+  @include responsive(tab-land) {
+    width: 50%;
+  }
+
+  @include responsive(tab-port) {
+    width: 100%;
+    margin-bottom: 5rem;
+  }
+
+  &__title {
+    font-family: "The Bold Font";
+    font-size: 3rem;
+    margin-bottom: 2rem;
+
+    @include responsive(phone-land) {
+      margin-bottom: 1rem;
+    }
+  }
+
+  p {
+    font-size: 1.6rem;
+    margin-bottom: 2rem;
+
+    @include responsive(phone-land) {
+      margin-bottom: 1rem;
+    }
+  }
+
+  &--skills {
+    padding-left: 5rem;
+
+    @include responsive(tab-port) {
+      padding-left: 0;
+    }
+  }
+}
+
+.skills-grid {
+  height: 100%;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(8, 1fr);
+  grid-gap: 1rem;
+  margin-left: auto;
+  font-size: 1.3rem;
+
+  @include responsive(tab-port) {
+    grid-template-columns: repeat(3, 1fr);
+    font-size: 1.6rem;
+  }
+
+  @include responsive(phone-land) {
+    grid-template-rows: repeat(6, 1fr);
+  }
+
+  &__item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 0.8rem;
+    color: $color-secondary;
+    background-color: $color-primary;
+    font-weight: bold;
+    border: 1px solid;
+
+    @include responsive(tab-port) {
+      padding: 0.8rem;
+    }
+  }
+}
