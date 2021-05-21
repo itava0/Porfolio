@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Porfolio/static/css/main.86ecf7e0.chunk.css",
+    "main.js": "/Porfolio/static/js/main.e2d6e6ee.chunk.js",
+    "main.js.map": "/Porfolio/static/js/main.e2d6e6ee.chunk.js.map",
+    "runtime~main.js": "/Porfolio/static/js/runtime~main.66c6aa23.js",
+    "runtime~main.js.map": "/Porfolio/static/js/runtime~main.66c6aa23.js.map",
+    "static/js/2.f718aec5.chunk.js": "/Porfolio/static/js/2.f718aec5.chunk.js",
+    "static/js/2.f718aec5.chunk.js.map": "/Porfolio/static/js/2.f718aec5.chunk.js.map",
+    "index.html": "/Porfolio/index.html",
+    "precache-manifest.04a45bde32808c6ed7caa03cf419fed3.js": "/Porfolio/precache-manifest.04a45bde32808c6ed7caa03cf419fed3.js",
+    "service-worker.js": "/Porfolio/service-worker.js",
+    "static/css/main.86ecf7e0.chunk.css.map": "/Porfolio/static/css/main.86ecf7e0.chunk.css.map",
+    "static/media/Onchill.png": "/Porfolio/static/media/Onchill.30341dee.png",
+    "static/media/RestaurantPassport.png": "/Porfolio/static/media/RestaurantPassport.cd703c2e.png",
+    "static/media/soniry.png": "/Porfolio/static/media/soniry.308be61a.png"
+  }
+}
