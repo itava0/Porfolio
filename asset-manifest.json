@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/itava0/Porfolio/static/css/main.86ecf7e0.chunk.css",
+    "main.js": "/itava0/Porfolio/static/js/main.e2d6e6ee.chunk.js",
+    "main.js.map": "/itava0/Porfolio/static/js/main.e2d6e6ee.chunk.js.map",
+    "runtime~main.js": "/itava0/Porfolio/static/js/runtime~main.ed0a6998.js",
+    "runtime~main.js.map": "/itava0/Porfolio/static/js/runtime~main.ed0a6998.js.map",
+    "static/js/2.f718aec5.chunk.js": "/itava0/Porfolio/static/js/2.f718aec5.chunk.js",
+    "static/js/2.f718aec5.chunk.js.map": "/itava0/Porfolio/static/js/2.f718aec5.chunk.js.map",
+    "index.html": "/itava0/Porfolio/index.html",
+    "precache-manifest.590c1f56edb5ca3b7d4e4209dbddf1f8.js": "/itava0/Porfolio/precache-manifest.590c1f56edb5ca3b7d4e4209dbddf1f8.js",
+    "service-worker.js": "/itava0/Porfolio/service-worker.js",
+    "static/css/main.86ecf7e0.chunk.css.map": "/itava0/Porfolio/static/css/main.86ecf7e0.chunk.css.map",
+    "static/media/Onchill.png": "/itava0/Porfolio/static/media/Onchill.30341dee.png",
+    "static/media/RestaurantPassport.png": "/itava0/Porfolio/static/media/RestaurantPassport.cd703c2e.png",
+    "static/media/soniry.png": "/itava0/Porfolio/static/media/soniry.308be61a.png"
+  }
+}
