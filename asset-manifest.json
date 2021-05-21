@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Porfolio/static/css/main.86ecf7e0.chunk.css",
-    "main.js": "/Porfolio/static/js/main.e2d6e6ee.chunk.js",
-    "main.js.map": "/Porfolio/static/js/main.e2d6e6ee.chunk.js.map",
-    "runtime~main.js": "/Porfolio/static/js/runtime~main.66c6aa23.js",
-    "runtime~main.js.map": "/Porfolio/static/js/runtime~main.66c6aa23.js.map",
-    "static/js/2.f718aec5.chunk.js": "/Porfolio/static/js/2.f718aec5.chunk.js",
-    "static/js/2.f718aec5.chunk.js.map": "/Porfolio/static/js/2.f718aec5.chunk.js.map",
-    "index.html": "/Porfolio/index.html",
-    "precache-manifest.04a45bde32808c6ed7caa03cf419fed3.js": "/Porfolio/precache-manifest.04a45bde32808c6ed7caa03cf419fed3.js",
-    "service-worker.js": "/Porfolio/service-worker.js",
-    "static/css/main.86ecf7e0.chunk.css.map": "/Porfolio/static/css/main.86ecf7e0.chunk.css.map",
-    "static/media/Onchill.png": "/Porfolio/static/media/Onchill.30341dee.png",
-    "static/media/RestaurantPassport.png": "/Porfolio/static/media/RestaurantPassport.cd703c2e.png",
-    "static/media/soniry.png": "/Porfolio/static/media/soniry.308be61a.png"
+    "main.css": "/static/css/main.86ecf7e0.chunk.css",
+    "main.js": "/static/js/main.561e0681.chunk.js",
+    "main.js.map": "/static/js/main.561e0681.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.fb07c63d.chunk.js": "/static/js/2.fb07c63d.chunk.js",
+    "static/js/2.fb07c63d.chunk.js.map": "/static/js/2.fb07c63d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.139bd57c3cb30fbbb2ec6ebccaa5c8ac.js": "/precache-manifest.139bd57c3cb30fbbb2ec6ebccaa5c8ac.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.86ecf7e0.chunk.css.map": "/static/css/main.86ecf7e0.chunk.css.map",
+    "static/media/Onchill.png": "/static/media/Onchill.30341dee.png",
+    "static/media/RestaurantPassport.png": "/static/media/RestaurantPassport.cd703c2e.png",
+    "static/media/soniry.png": "/static/media/soniry.308be61a.png"
   }
 }
