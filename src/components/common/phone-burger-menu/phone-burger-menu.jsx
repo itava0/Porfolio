@@ -63,7 +63,7 @@ const PhoneBurgerMenu = () => {
           <ul className="phone-social-nav">
             <li className="phone-social-nav__item">
               <a
-                href="https://github.com/Gilbert1391"
+                href="https://github.com/itava0"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -72,7 +72,7 @@ const PhoneBurgerMenu = () => {
             </li>
             <li className="phone-social-nav__item">
               <a
-                href="https://www.linkedin.com/in/gilbert-rosario-275b0b169/"
+                href="https://www.linkedin.com/in/igor-tavarez/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -81,7 +81,7 @@ const PhoneBurgerMenu = () => {
             </li>
             <li className="phone-social-nav__item">
               <a
-                href="mailto:pro.devgilbert@gmail.com"
+                href="igortavarez0@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
               >
