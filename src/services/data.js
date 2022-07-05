@@ -6,7 +6,7 @@ export const skillsData = [
   { name: "typescript", category: "other" },
   { name: "react", category: "frontend" },
   { name: "node.js", category: "backend" },
-  { name: "nestjs", category: "backend" },
+  { name: "nextjs", category: "backend" },
   { name: "express.js", category: "backend" },
   { name: "sql", category: "backend" },
   { name: "git", category: "other" },
@@ -24,7 +24,7 @@ export const projectsData = [
   },
   {
     name: "Onchill",
-    description: `Single Page Application (SPA) implemented with React, I used the 
+    description: `Single Page Application (SPA) implemented with React, and the 
                   moviedb API to fetch dynamic data to the app.`,
     imgName: "Onchill.png",
     siteUrl: "https://onchill.vercel.app/",
