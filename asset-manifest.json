@@ -1,18 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.86ecf7e0.chunk.css",
-    "main.js": "/static/js/main.14557ab1.chunk.js",
-    "main.js.map": "/static/js/main.14557ab1.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.fb07c63d.chunk.js": "/static/js/2.fb07c63d.chunk.js",
-    "static/js/2.fb07c63d.chunk.js.map": "/static/js/2.fb07c63d.chunk.js.map",
+    "main.css": "/static/css/main.3a59ee30.css",
+    "main.js": "/static/js/main.4fee21d7.js",
+    "static/media/RestaurantPassport.png": "/static/media/RestaurantPassport.236915f6b378e232e696.png",
+    "static/media/Onchill.png": "/static/media/Onchill.5afbaae9ef465726bc0e.png",
+    "static/media/soniry.png": "/static/media/soniry.03e86c3f304d46d91fd0.png",
     "index.html": "/index.html",
-    "precache-manifest.33c7085fe08bf8c6ff8155e5ad49922b.js": "/precache-manifest.33c7085fe08bf8c6ff8155e5ad49922b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.86ecf7e0.chunk.css.map": "/static/css/main.86ecf7e0.chunk.css.map",
-    "static/media/Onchill.png": "/static/media/Onchill.30341dee.png",
-    "static/media/RestaurantPassport.png": "/static/media/RestaurantPassport.cd703c2e.png",
-    "static/media/soniry.png": "/static/media/soniry.308be61a.png"
-  }
+    "main.3a59ee30.css.map": "/static/css/main.3a59ee30.css.map",
+    "main.4fee21d7.js.map": "/static/js/main.4fee21d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a59ee30.css",
+    "static/js/main.4fee21d7.js"
+  ]
 }
