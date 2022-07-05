@@ -9,13 +9,8 @@ const About = () => {
       <div className="about-flex">
         <div className="about-group">
           <h2 className="about-group__title">Who am I?</h2>
-          <p>I'm a full stack software developer based in Charlotte, NC.</p>
           <p>
-            My passion is all about creating real elegant
-            looking websites. I enjoy taking complex problems and turning them into simple and beautiful interface. Also, I love the logic and structure of coding and always strive to efficient and clean code.
-          </p>
-          <p>
-           When I'm not coding, you'll find me in the court shooting some hoops. 
+          Innovative and technically-astute software developer well-versed in analyzing user needs and developing software to precisely meet diverse needs. Demonstrates mastery of multiple programming languages and proactively keeps up with industry trends. Driven to wear many programming hats with expertise in creating everything from new applications to new operating systems.
           </p>
         </div>
         <div className="about-group about-group--skills">
