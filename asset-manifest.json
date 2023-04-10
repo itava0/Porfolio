@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e9e1f740.css",
-    "main.js": "/static/js/main.f00bc3d4.js",
+    "main.js": "/static/js/main.d3c6a59d.js",
     "static/media/atlantis.png": "/static/media/atlantis.14fd60da0ebe27ecfc43.png",
     "static/media/RestaurantPassport.png": "/static/media/RestaurantPassport.236915f6b378e232e696.png",
     "static/media/Onchill.png": "/static/media/Onchill.5afbaae9ef465726bc0e.png",
     "static/media/soniry.png": "/static/media/soniry.03e86c3f304d46d91fd0.png",
     "index.html": "/index.html",
     "main.e9e1f740.css.map": "/static/css/main.e9e1f740.css.map",
-    "main.f00bc3d4.js.map": "/static/js/main.f00bc3d4.js.map"
+    "main.d3c6a59d.js.map": "/static/js/main.d3c6a59d.js.map"
   },
   "entrypoints": [
     "static/css/main.e9e1f740.css",
-    "static/js/main.f00bc3d4.js"
+    "static/js/main.d3c6a59d.js"
   ]
 }
