@@ -5,12 +5,14 @@ export const skillsData = [
   { name: "javascript", category: "language" },
   { name: "typescript", category: "language" },
   { name: "react", category: "frontend" },
-  { name: "node.js", category: "backend" },
-  { name: "nextjs", category: "backend" },
-  { name: "express.js", category: "backend" },
-  { name: "sql", category: "backend" },
+  { name: "nextjs", category: "frontend" },
   { name: "git", category: "other" },
   { name: "Salesforce", category: "other" },
+  { name: "node.js", category: "backend" },
+  { name: "express.js", category: "backend" },
+  { name: "Java", category: "backend" },
+  {name: "Spring", category: "backend"},
+  { name: "sql", category: "backend" }
 ];
 
 skillsData.forEach((e, i) => (e.id = i));
