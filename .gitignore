@@ -4,8 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-.vscode
-.sfdx
+/.vscode
+/.sfdx
 
 # testing
 /coverage
