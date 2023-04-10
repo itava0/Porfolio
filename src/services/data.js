@@ -3,18 +3,26 @@ export const skillsData = [
   { name: "css", category: "frontend" },
   { name: "sass", category: "frontend" },
   { name: "javascript", category: "language" },
-  { name: "typescript", category: "other" },
+  { name: "typescript", category: "language" },
   { name: "react", category: "frontend" },
   { name: "node.js", category: "backend" },
   { name: "nextjs", category: "backend" },
   { name: "express.js", category: "backend" },
   { name: "sql", category: "backend" },
   { name: "git", category: "other" },
+  { name: "Salesforce", category: "other" },
 ];
 
 skillsData.forEach((e, i) => (e.id = i));
 
 export const projectsData = [
+  {
+    name: "Atlantis Property Company",
+    description: `Atlantis Property Company’s goal is to create a service in which tenants and property owners can manage their properties.`,
+    imgName: "atlantis.png",
+    siteUrl: "https://atlantisproperties-dev-ed.my.site.com/main/s/",
+    githubUrl: "https://github.com/itava0/Atlantis",
+  },
   {
     name: "RestaurantPassport",
     description: `At RestaurantPassport we aim to give our users a stress-free eating experience by easily finding somewhere to satisfy their appetites.`,
