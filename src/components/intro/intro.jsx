@@ -4,8 +4,8 @@ const Intro = () => {
   return (
     <div className="intro">
       <div>
-        <p>Hi, I'm Igor Tavarez</p>
-        <p>I'm a Full Stack Developer</p>
+        <p>Welcome, my name is Igor Tavarez</p>
+        <p className="subheading">I am a Software Developer based in Charlotte, NC.</p>
       </div>
     </div>
   );

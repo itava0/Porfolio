@@ -6,10 +6,19 @@
   font-family: "The Bold Font";
   font-size: 4.5rem;
   word-spacing: 1rem;
-  color: $color-tertiary;
+  color: $color-secondary;
 
   @include responsive(phone-port) {
-    font-size: 3rem;
+    font-size: 2.5rem;
+  }
+}
+
+.subheading {
+  font-size: 2rem;
+  text-align: center;
+  color: $color-tertiary;
+  @include responsive(phone-port) {
+    font-size: 1.5rem;
   }
 }
 
