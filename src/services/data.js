@@ -5,6 +5,7 @@ export const skillsData = [
   { name: "javascript", category: "language" },
   { name: "typescript", category: "language" },
   { name: "react", category: "frontend" },
+  { name: "redux", category: "frontend" },
   { name: "nextjs", category: "frontend" },
   { name: "git", category: "other" },
   { name: "Salesforce", category: "other" },
@@ -19,6 +20,21 @@ skillsData.forEach((e, i) => (e.id = i));
 
 export const projectsData = [
   {
+    name: "React Gym",
+    description: "Gym membershipt system that allows users to manage their membership, trainers, and classes, as well as schedule appointments.",
+    imgName: "reactGym.jpeg",
+    siteUrl: "https://react-gym-bice.vercel.app/",
+    githubUrl: "https://github.com/itava0/React-Gym",
+  },
+  {
+    name: "Onchill",
+    description: `Single Page Application (SPA) implemented with React, and the 
+                  moviedb API to fetch dynamic data to the app.`,
+    imgName: "Onchill.png",
+    siteUrl: "https://onchill.vercel.app/",
+    githubUrl: "https://github.com/itava0/onChill",
+  },
+  {
     name: "Atlantis Property Company",
     description: `Atlantis Property Company’s goal is to create a service in which tenants and property owners can manage their properties.`,
     imgName: "atlantis.png",
@@ -31,14 +47,6 @@ export const projectsData = [
     imgName: "RestaurantPassport.png",
     siteUrl: "https://hopeful-borg-8e270f.netlify.app/",
     githubUrl: "https://github.com/Build-Week-Restaurant-Passport/Front-End",
-  },
-  {
-    name: "Onchill",
-    description: `Single Page Application (SPA) implemented with React, and the 
-                  moviedb API to fetch dynamic data to the app.`,
-    imgName: "Onchill.png",
-    siteUrl: "https://onchill.vercel.app/",
-    githubUrl: "https://github.com/itava0/onChill",
   },
   {
     name: "Soniry",
