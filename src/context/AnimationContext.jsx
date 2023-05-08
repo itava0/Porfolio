@@ -1,6 +1,6 @@
-import React from "react";
+import { createContext } from 'react';
 
-const AnimationContext = React.createContext();
+const AnimationContext = createContext();
 AnimationContext.displayName = "AnimationContext";
 
 export default AnimationContext;
