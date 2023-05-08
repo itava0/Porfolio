@@ -1,6 +1,6 @@
-import React from "react";
-import Heading from "../common/heading/heading";
-import { skillsData } from "../../services/data";
+import React from 'react';
+import Heading from '../common/heading/heading';
+import { skillsData } from '../../services/data';
 
 const About = () => {
   return (
@@ -10,7 +10,23 @@ const About = () => {
         <div className="about-group">
           <h2 className="about-group__title">Who am I?</h2>
           <p>
-          Innovative and technically-astute software developer well-versed in analyzing user needs and developing software to precisely meet diverse needs. Demonstrates mastery of multiple programming languages and proactively keeps up with industry trends. Driven to wear many programming hats with expertise in creating everything from new applications to new operating systems.
+            As a Software Developer, I am passionate about creating full stack
+            applications, and I am excited to share some of my work with you
+            through this website.
+          </p>
+          <p>
+            Throughout my career, I have had the opportunity to work on various
+            projects and collaborate with clients from different industries.
+            From designing engaging user interfaces to developing complex web
+            applications, my goal is to create solutions that are not only
+            functional but also aesthetically pleasing.
+          </p>
+          <p>
+            In this web portfolio, you will find a collection of my most recent
+            projects, showcasing my skills and expertise in web development.
+            Please feel free to browse around and get in touch if you have any
+            questions or if you would like to discuss a potential project. Thank
+            you for visiting and I hope you enjoy my work!"
           </p>
         </div>
         <div className="about-group about-group--skills">
