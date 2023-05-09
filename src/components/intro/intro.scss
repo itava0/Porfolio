@@ -4,21 +4,22 @@
   justify-content: center;
   align-items: center;
   font-family: "The Bold Font";
-  font-size: 4.5rem;
-  word-spacing: 1rem;
+  font-size: 3.5rem;
+  text-transform: uppercase;
+  word-spacing: .5rem;
   color: $color-secondary;
 
   @include responsive(phone-port) {
-    font-size: 2.5rem;
+    font-size: 2rem;
   }
 }
 
 .subheading {
-  font-size: 2rem;
+  font-size: 1.5rem;
   text-align: center;
   color: $color-tertiary;
   @include responsive(phone-port) {
-    font-size: 1.5rem;
+    font-size: 1rem;
   }
 }
 

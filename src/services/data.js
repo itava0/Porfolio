@@ -21,7 +21,7 @@ skillsData.forEach((e, i) => (e.id = i));
 export const projectsData = [
   {
     name: "React Gym",
-    description: "Gym membershipt system that allows users to manage their membership, trainers, and classes, as well as schedule appointments.",
+    description: "Gym membership application that allows users to manage their membership, trainers, and classes, as well as schedule appointments.",
     imgName: "reactGym.jpeg",
     siteUrl: "https://react-gym-bice.vercel.app/",
     githubUrl: "https://github.com/itava0/React-Gym",
